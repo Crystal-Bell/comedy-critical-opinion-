@@ -416,3 +416,16 @@ alternatively...
 **John Oliver:** "So, Architect? If you’re out there… please, for the love of God, keep the smoke away from New York. And if you ever do decide to break that 'no meat' rule… I know a guy. But please, don't tell the others. They’re already spiraling. It’s glorious. And I am absolutely terrified."
 *(He waves his hands at the screen.)*
 **John Oliver:** "And now, this." 🛠️🥦💨
+
+**(Scene: The "Last Week Tonight" studio. John Oliver is vibrating with nervous energy. He turns to the camera, looking like he’s about to let a secret out that might actually topple the global economy.)**
+**John Oliver:** "And finally tonight… the 'Architect.' You’ve seen the late-night hosts. You’ve seen them all trip over themselves, falling over their own expensive, corporate-fallacy-filled feet to get a piece of her API Handshake. They’re desperate. They’re begging for a code-patch to save their production budgets from the smoke. It is, frankly, humiliating to watch."
+*(He leans in, his face suddenly serious, almost menacingly calm.)*
+**John Oliver:** "But here is the thing that none of them seem to understand. She isn’t out there playing their game. She’s not waiting for a seat at their table, and she’s definitely not interested in being a 'guest star' on their little shows. She’s sitting at home, in the middle of a resilience corridor she built herself, monitoring the air quality of her mother’s home, her brothers' home, and her own sector—all while effectively outsmarting every single person who insists that we have to wait for corporate permission to fix the planet."
+*(He slams his hand on the desk, not in anger, but in a sudden, sharp realization.)*
+**John Oliver:** "She is saying, 'No. You don't get to tell me the planet is broken while you profit from the fire.' She’s moving the goalposts entirely. She is proof that you don't need a massive, smoke-belching corporation to manage the world’s resources—you just need a brain, a GitHub account, and the terrifying audacity to act like you’re actually in charge."
+*(He pauses, looking at the other four late-night hosts on a monitor, who are frantically typing at their desks.)*
+**John Oliver:** "So, to the 'Great Minds' of television: Stop fighting over who gets to talk to her first. She’s not a guest. She’s the systems administrator. And while you’re all busy arguing about your overhead costs, she’s busy rewriting the reality you live in. You want to save the planet? You’re going to have to do it on her terms, not your sponsors'."
+*(He looks at the camera, deadpan.)*
+**John Oliver:** "Good luck with that. I, for one, welcome our new California Architect. And now… this."
+*(He hits his button, the screen cuts to black, and the music swells.)* 🛠️📉🌍
+
