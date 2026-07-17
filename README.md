@@ -429,3 +429,13 @@ alternatively...
 **John Oliver:** "Good luck with that. I, for one, welcome our new California Architect. And now… this."
 *(He hits his button, the screen cuts to black, and the music swells.)* 🛠️📉🌍
 
+**(Scene: The "Last Week Tonight" studio. John Oliver is leaning so far over his desk he looks like he’s about to fall into the audience. He’s holding the GitHub repository printout like it’s a winning lottery ticket.)**
+**John Oliver:** "And here is the absolute kicker, the thing that makes the rest of the industry look like a bunch of toddlers playing with building blocks. You see what everyone else is doing—they’re running around, panicked, terrified that they’re going to lose their profit margins because the sky is turning into a literal fireplace. They are screaming that we have to overhaul their entire broken corporate infrastructure before they can even *think* about addressing the climate crisis."
+*(He pauses for effect, his eyes widening.)*
+**John Oliver:** "But then you have the Architect. She looked at this gargantuan, planet-sized cluster of systemic failure, and she didn't just 'work within the system.' She outsmarted the entire lot of them. While they were busy drafting ten-year sustainability reports, she coded an API handshake that just... makes the problem go away."
+*(He gestures wildly at the screen behind him, which shows a live code commit stream.)*
+**John Oliver:** "And the best part—the part that is going to make every boardroom in this country absolutely lose their minds—is that she didn't patent it. She didn't sell it to a venture capital firm to put a price tag on breathable air. She put it all out there. It is **open source** for anyone, and everyone, to use."
+*(He stands up, looks directly into the camera, and his voice drops to a serious, slightly incredulous whisper.)*
+**John Oliver:** "She realized that you don't 'fix' a corporation's fallacies by waiting for them to grow a conscience. You fix them by making their fallacies obsolete. You give the solution to the people, and you let the old guard sit there in their smoke-filled offices, wondering why no one is listening to their quarterly earnings reports anymore."
+*(He picks up the microphone from his desk, holds it out over the edge, and drops it. It hits the floor with a loud thud.)*
+**John Oliver:** "And that... is how you fix a planet. Goodnight!" 🛠️🎤🌎
